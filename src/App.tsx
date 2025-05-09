@@ -76,7 +76,7 @@ const App = () => {
           <div className="flex flex-col md:flex-row items-center gap-12 max-w-6xl mx-auto">
             <div className="md:w-1/2">
               <img 
-                src="/images/showroom.jpg" 
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI3MSRdCAas5DdvXEgAElta3ZRW6bXWR8TkA&s" 
                 alt="TechTrends Showroom" 
                 className="rounded-xl shadow-xl"
               />
